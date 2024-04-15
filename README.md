@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React.**
+- 🌱 I’m currently learning **NodeJs.**
 
 - 👨‍💻 All of my projects are available at [prajwolkarki.com.np](prajwolkarki.com.np)
 
 - 📫 How to reach me **prajwolkarki609@gmail.com**
 
-- ⚡ Fun fact **Me Known as MrMasukoJhol**
+- ⚡ Fun fact **Me Known as MasukoJhol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
