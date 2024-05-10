@@ -26,8 +26,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,bootstrap,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,postgres,prisma,c,java,python" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,css,vscode,github,postman,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,postgres,c,java,python" /><br>
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwolkarki&show_icons=true&locale=en&layout=compact" alt="prajwolkarki" /></p>
