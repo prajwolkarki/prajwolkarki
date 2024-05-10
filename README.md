@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **ReactJS.**
 
-- 👨‍💻 All of my projects are available at [prajwolkarki.com.np](prajwolkarki.com.np)
-
 - 📫 How to reach me **prajwolkarki609@gmail.com**
 
 - ⚡ Fun fact **Me Known as MasukoJhol**
