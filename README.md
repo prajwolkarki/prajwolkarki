@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Prajwol Karki</h1>
 <h3 align="center">A passionate MERN developer from Nepal</h3>
-<img align="right" alt="Coding" width="350" height="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+<img align="right" alt="Coding" width="250" height="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwolkarki&label=Profile%20views&color=0e75b6&style=flat" alt="prajwolkarki" /> </p>
@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.prajwolkarki.com.np" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
