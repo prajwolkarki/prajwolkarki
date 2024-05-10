@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](prajwolkarki.io)
+/*[![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](prajwolkarki.io)*/
 
 <h1 align="center">Hi 👋, I'm Prajwol Karki</h1>
 <h3 align="center">A passionate MERN developer from Nepal</h3>
