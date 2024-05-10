@@ -29,7 +29,7 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,css,vscode,github,postman,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,postgres,c,java,python" /><br>
 </div>
-
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwolkarki&show_icons=true&locale=en&layout=compact" alt="prajwolkarki" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwolkarki&show_icons=true&locale=en" alt="prajwolkarki" /></p>
